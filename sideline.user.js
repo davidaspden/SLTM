@@ -4,7 +4,7 @@
 // @version      1
 // @description  Fix CSS in sideline with a remote CSS file.
 // @author       David Aspden
-// @match        https://*sideline*
+// @match        https://aft-poirot-website-dub.dub.proxy.amazon.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @resource   IMPORTED_CSS https://gist.githubusercontent.com/davidaspden/d88d157e21f2373c624b6216eaa132ac/raw
 // @grant      GM_getResourceText
